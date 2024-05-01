@@ -1,0 +1,16 @@
+body{
+	 background:url("../imagenes/fondo.jpg");
+	 color:#000000;
+	 font-family: "Tahoma", "courier new", arial; 
+	 font-size:40px;
+     }
+ p{
+	 text-align:justify;
+	 font-size:20px;
+    }     
+hr{
+	border:3px solid #D35400;
+	border-radius: 5px;
+	width:80%;
+}
+/*Aqui me quede,cambiar fondo a uno mas claro*/
